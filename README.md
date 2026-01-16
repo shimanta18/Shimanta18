@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Competitive Programmer | AI Enthusiast
 
-I am a Computer Science and Technology student at **Chittagong Polytechnic Institute** with a strong foundation in **Diploma Engineering**[cite: 27, 28]. I specialize in building modern, responsive web applications and am currently expanding my expertise into **Artificial Intelligence**.
+I am a Computer Science and Technology student at **Chittagong Polytechnic Institute** with a strong foundation in **Diploma Engineering**. I specialize in building modern, responsive web applications and am currently expanding my expertise into **Artificial Intelligence**.
 
 ---
 
@@ -33,9 +33,9 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 ---
 
 ### 🚀 Projects & Learning
-- [cite_start]🤖 **Currently Learning:** Deepening my knowledge through AI Intensive courses and workshops[cite: 10].
-- [cite_start]💡 **Problem Solving:** Actively solving complex algorithmic problems to ensure code efficiency[cite: 6].
-- [cite_start]🤝 **Leadership:** Experienced in **Technical Project Leadership** and community engagement[cite: 8, 24].
+- 🤖 **Currently Learning:** Deepening my knowledge through AI Intensive courses and workshops[cite: 10].
+- 💡 **Problem Solving:** Actively solving complex algorithmic problems to ensure code efficiency[cite: 6].
+- 🤝 **Leadership:** Experienced in **Technical Project Leadership** and community engagement[cite: 8, 24].
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/shimanta-chowdhury-a5720b384) [cite: 3, 4]
