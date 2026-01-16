@@ -39,4 +39,4 @@
 
 ### 📫 Connect with me
 [cite_start][![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/shimanta-chowdhury-a5720b384) [cite: 3, 4]
-[cite_start][![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:shimantacho18@gmail.com) [cite: 2]
+[cite_start][![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:scshomu@gmail.com) [cite: 2]
