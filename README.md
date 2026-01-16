@@ -33,10 +33,10 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 ---
 
 ### 🚀 Projects & Learning
-- 🤖 **Currently Learning:** Deepening my knowledge through AI Intensive courses and workshops[cite: 10].
-- 💡 **Problem Solving:** Actively solving complex algorithmic problems to ensure code efficiency[cite: 6].
-- 🤝 **Leadership:** Experienced in **Technical Project Leadership** and community engagement[cite: 8, 24].
+- 🤖 **Currently Learning:** Deepening my knowledge through AI Intensive courses and workshops.
+- 💡 **Problem Solving:** Actively solving complex algorithmic problems to ensure code efficiency.
+- 🤝 **Leadership:** Experienced in **Technical Project Leadership** and community engagement.
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/shimanta-chowdhury-a5720b384) [cite: 3, 4]
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:scshomu@gmail.com) [cite: 2]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/shimanta-chowdhury-a5720b384) 
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:scshomu@gmail.com) 
