@@ -1,6 +1,6 @@
 # Hi there, I'm Shimanta Chowdhury 👋
 
-### Full-Stack Developer | Competitive Programmer | AI Enthusiast
+###  Competitive Programmer | AI Enthusiast
 
 I am a Computer Science and Technology student at **Chittagong Polytechnic Institute** with a strong foundation in **Diploma Engineering**. I specialize in building modern, responsive web applications and am currently expanding my expertise into **Artificial Intelligence**.
 
