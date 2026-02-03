@@ -28,7 +28,7 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 | **GitHub Activity** | **Competitive Programming** |
 | :--- | :--- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat) [Solve Challenges](https://leetcode.com/Shimanta_18) |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical) | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat) [View Profile](https://www.codechef.com/users/red_nose) |
+| | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat) [View Profile](https://www.codechef.com/users/red_nose) |
 
 ---
 
