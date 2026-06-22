@@ -27,11 +27,11 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
   <tr>
     <td width="50%" valign="top">
       <h4>GitHub Activity</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shimanta18&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top">
       <h4>Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanta18&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
