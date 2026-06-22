@@ -70,3 +70,14 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Tools and Tech" />
 </p>
+
+### 📊 GitHub Statistics & Analysis
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=flat&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=flat&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_GITHUB_USERNAME&theme=flat&hide_border=false" alt="GitHub Streak" width="97%" />
+</p>
