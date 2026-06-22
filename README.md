@@ -102,3 +102,12 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=Hero-apps&theme=dark&hide_border=true" alt="Hero Apps" width="48%" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Shimanta18/green-earth1">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=green-earth1&theme=dark&hide_border=true" alt="Green Earth" width="48%" />
+  </a>
+  <a href="https://github.com/Shimanta18/School-solver">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=School-solver&theme=dark&hide_border=true" alt="School Solver" width="48%" />
+  </a>
+</p>
