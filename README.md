@@ -23,10 +23,18 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 
 ### 📊 Coding & Performance
 
-| **GitHub Activity** | **Competitive Programming** |
-| :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat) [Solve Challenges](https://leetcode.com/Shimanta_18) |
-| | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat) [View Profile](https://www.codechef.com/users/red_nose) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>GitHub Activity</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
