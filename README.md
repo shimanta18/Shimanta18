@@ -54,3 +54,19 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
   <a href="mailto:scshomu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
   <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="40" /></a>
 </p>
+
+#### 🚀 Deployment Platforms:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platforms" />
+</p>
+
+#### 🎨 Design & Graphics:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="50" />
+</p>
+
+#### 🛠️ Tools & Technologies:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Tools and Tech" />
+</p>
