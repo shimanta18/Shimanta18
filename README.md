@@ -45,4 +45,12 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/shimanta-chowdhury-a5720b384) 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:scshomu@gmail.com) 
+
+
+### 🤝 Follow Me on Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:scshomu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="40" /></a>
+</p>
