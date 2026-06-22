@@ -98,8 +98,7 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
   <a href="https://github.com/Shimanta18/eTution-client-side">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=eTution-client-side&theme=dark&hide_border=true" alt="eTution Client Side" width="48%" />
   </a>
-  <a href="https://github.com/Shimanta18/Hero-apps">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=Hero-apps&theme=dark&hide_border=true" alt="Hero Apps" width="48%" />
+  
   </a>
 </p>
 
