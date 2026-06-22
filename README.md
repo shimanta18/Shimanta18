@@ -86,19 +86,19 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 ### 🚀 Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/Shimanta18/EventShow-client-side">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=EventShow-client-side&theme=dark&hide_border=true" alt="EventShow Client Side" width="48%" />
+  </a>
   <a href="https://github.com/Shimanta18/Maison">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=Maison&theme=dark&hide_border=true" alt="Maison" width="48%" />
-  </a>
-  <a href="https://github.com/Shimanta18/eTution-client-side">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=eTution-client-side&theme=dark&hide_border=true" alt="eTution Client Side" width="48%" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Shimanta18/eTution-client-side">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=eTution-client-side&theme=dark&hide_border=true" alt="eTution Client Side" width="48%" />
+  </a>
   <a href="https://github.com/Shimanta18/Hero-apps">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=Hero-apps&theme=dark&hide_border=true" alt="Hero Apps" width="48%" />
-  </a>
-  <a href="https://github.com/Shimanta18/green-earth1">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shimanta18&repo=green-earth1&theme=dark&hide_border=true" alt="Green Earth" width="48%" />
   </a>
 </p>
