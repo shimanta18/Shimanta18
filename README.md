@@ -74,10 +74,10 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 ### 📊 GitHub Statistics & Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimanta18&show_icons=true&theme=flat&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimanta18&layout=compact&theme=flat&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shimanta18&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shimanta18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimanta18&theme=flat&hide_border=false" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimanta18&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
