@@ -81,3 +81,24 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimanta18&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
+
+
+### 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Shimanta18/Resume-Craft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shimanta18&repo=Resume-Craft&theme=dark&hide_border=true" alt="Resume-Craft" width="48%" />
+  </a>
+  <a href="https://github.com/Shimanta18/ApartSol-Web-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shimanta18&repo=ApartSol-Web-App&theme=dark&hide_border=true" alt="ApartSol-Web-App" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shimanta18/Level-2-Assignment-6-Gift-Shop-Management-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shimanta18&repo=Level-2-Assignment-6-Gift-Shop-Management-Dashboard&theme=dark&hide_border=true" alt="Gift Shop Dashboard" width="48%" />
+  </a>
+  <a href="https://github.com/Shimanta18/PH-7-Summer-Music-Camp-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shimanta18&repo=PH-7-Summer-Music-Camp-Client&theme=dark&hide_border=true" alt="Summer Music Camp" width="48%" />
+  </a>
+</p>
