@@ -52,7 +52,7 @@ I am a Computer Science and Technology student at **Chittagong Polytechnic Insti
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
   <a href="mailto:scshomu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="40" /></a>
+  <a href="https://leetcode.com/u/Shimanta_18/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="40" /></a>
 </p>
 
 #### 🚀 Deployment Platforms:
